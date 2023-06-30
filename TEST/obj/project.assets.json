@@ -2550,11 +2550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\TEST\\PE_2022.csproj",
+      "projectUniqueName": "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\TEST\\PE_2022.csproj",
       "projectName": "PE_2022",
-      "projectPath": "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\TEST\\PE_2022.csproj",
+      "projectPath": "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\TEST\\PE_2022.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\TEST\\obj\\",
+      "outputPath": "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\TEST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Apps\\Code App\\IDE\\Visual Studio\\Shared\\NuGetPackages"
@@ -2575,8 +2575,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\Repository\\Repository.csproj"
+            "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\Repository\\Repository.csproj"
             }
           }
         }

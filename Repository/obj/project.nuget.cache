@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YFDLwyysP7r7IaHvPovCX33BsSVv9biW9WxFdb/fnNYlRUepgduNiShQujMRe5UtMQ7Qz0vmumYF57qUUihy0g==",
+  "dgSpecHash": "RipyfRtLwvWXQ5BWjSuKYxeWBIIji/GUxxFIU1dy/5xrcWWbY4G2HUJKUrGik4whd1cyM0RonFKlNNmCLI7rrQ==",
   "success": true,
-  "projectFilePath": "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\Repository\\Repository.csproj",
+  "projectFilePath": "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

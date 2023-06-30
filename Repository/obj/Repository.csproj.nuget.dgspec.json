@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\Repository\\Repository.csproj": {}
+    "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\Repository\\Repository.csproj": {
+    "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\Repository\\Repository.csproj",
+        "projectPath": "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARN\\PE\\PRN211\\PE_PRN211\\Repository\\obj\\",
+        "outputPath": "D:\\LEARN\\PE\\PRN211\\BackAccountManager_WinForm\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Apps\\Code App\\IDE\\Visual Studio\\Shared\\NuGetPackages"

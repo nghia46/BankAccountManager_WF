@@ -93,7 +93,7 @@ namespace Managerment
         private void btnAdmin_Click(object sender, EventArgs e)
         {
             txtUsername.Text = "Administrator";
-            txtPassword.Text = "123";
+            txtPassword.Text = "1234";
             Login();
         }
     }
