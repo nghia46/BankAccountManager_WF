@@ -1,5 +1,5 @@
 # BankAccountManager_WF
-WinformPJ crud back account using Winform
+WinformPJ crud bank account using Winform
 # Welcome to Bank account manager Repository
 
 ## You will find in this Repository the winform aplication to manager the banks account
